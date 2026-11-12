@@ -11,13 +11,13 @@
 
   <ItemGroup>
     <!-- Donkeh UI engine (NuGet). -->
-    <PackageReference Include="Donkeh.Parser" Version="1.0.0-alpha" />
-    <PackageReference Include="Donkeh.Data" Version="1.0.0-alpha" />
-    <PackageReference Include="Donkeh.DataEngine" Version="1.0.0-alpha" />
-    <PackageReference Include="Donkeh.LayoutLab" Version="1.0.0-alpha" />
-    <PackageReference Include="Donkeh.UILab" Version="1.0.0-alpha" />
-    <PackageReference Include="Donkeh.Windowing" Version="1.0.0-alpha" />
-    <PackageReference Include="Donkeh.Inspector" Version="1.0.0-alpha" />
+    <PackageReference Include="Donkeh.Parser" Version="1.0.1" />
+    <PackageReference Include="Donkeh.Data" Version="1.0.1" />
+    <PackageReference Include="Donkeh.DataEngine" Version="1.0.1" />
+    <PackageReference Include="Donkeh.LayoutLab" Version="1.0.1" />
+    <PackageReference Include="Donkeh.UILab" Version="1.0.1" />
+    <PackageReference Include="Donkeh.Windowing" Version="1.0.1" />
+    <PackageReference Include="Donkeh.Inspector" Version="1.0.1" />
   </ItemGroup>
 
 </Project>
